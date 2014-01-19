@@ -1,0 +1,25 @@
+{
+  "name": "dat-google-storage",
+  "version": "0.0.1",
+  "description": "import google storage bucket metadata into dat",
+  "main": "index.js",
+  "author": "max ogden",
+  "license": "BSD",
+  "scripts": {
+    "start": "node run.js"
+  },
+  "dependencies": {
+    "request": "~2.33.0",
+    "gapitoken": "~0.1.0",
+    "dat": "~2.4.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maxogden/dat-google-storage.git"
+  },
+  "bugs": {
+    "url": "https://github.com/maxogden/dat-google-storage/issues"
+  },
+  "homepage": "https://github.com/maxogden/dat-google-storage"
+}
